@@ -25,7 +25,6 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
     School of Engineering Science· Department of Modern Mechanics
 
     **GPA**:3.79/4.3
-<br>
 
 ---
 
@@ -36,6 +35,47 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 - Planning for Mobile Robots and Robotic Arms
 
 I am interested in developing robots that can autonomously move through complex environments with the flexibility and stability of natural animals(including human being:)
-<br>
 
+---
+
+## Selected Course Grades
+
+<!-- 列表 -->
+|     Course Name     |     Grade     |
+|     :----:     |     :----:     |
+|     Mathematical Analysis     |     95     |
+|     Linear Algebra     |     96     |
+|     Probability Theory and Mathematical Statistics     |     92     |
+|     Mechanics     |     100     |
+|     Thermotics     |     100     |
+|     Theoretical Mechanics     |     99     |
+|     Statistical Thermodynamics     |     97     |
+
+
+---
+
+## Awards
+
+| No. | Award | Date |
+|-----|-------|------|
+| 1 | JAC NIO Scholarship | Oct 2022 |
+| 2 | Grand Prize of Zhou Peiyuan Mechanics Competition at Provincial Level | Jun 2023 |
+| 3 | 2nd Prize of RoboMaster 2023 The RoboMaster University Championship | Apr 2023 |
+| 4 | 2nd Prize of RoboMaster 2023 RoboMaster University League | Jun 2023 |
+| 5 | 1st Prize of 2023 Mitsubishi Electric Cup Electrical and Automation Contest Eastern Region | Jun 2023 |
+| 6 | 1st Prize of 2023 SLAMTEC SLAM Autonomous Driving Challenge  · Yangtze River Delta Research University Consortium | Aug 2023 |
+| 7 | 2nd Place of 2023 USTC Artificial Intelligence Innovation Contest | Sep 2023 |
+
+---
+
+## Skills, Languages, and Hobbies
+
+Programming Languages: Python, C++, MATLAB, Mathematica, LaTeX
+
+|          |          |
+|     :----:     |     :----:     |
+|     Programming     |     Python, C++, MATLAB, Mathematica, LaTeX, etc     |
+|     Tools     |     ROS/ROS2, SSH, Git, etc     |
+|     Languages     |     English: Toefl 95 & French: Basic understanding     |
+|     Hobbies     |     Soccer , Cycling , Lego     |
 
