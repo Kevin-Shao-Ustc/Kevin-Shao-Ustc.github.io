@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://kevin-shao-ustc.github.io/syy.jpg" class="floatpic" width="485" height="360">
+<img src="https://kevin-shao-ustc.github.io/syy.jpg" class="floatpic" width="727" height="540">
 
 Here is **YiYang Shao (Kevin, 邵宜阳)**.
 
@@ -31,7 +31,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 - Reinforcement Learning
 - Planning for Mobile Robots and Robotic Arms
 
-I am interested in developing robots that can autonomously move through complex environments with the flexibility and stability of natural animals(including humanb being:)
+I am interested in developing robots that can autonomously move through complex environments with the flexibility and stability of natural animals(including human being:)
 <br>
 
 
