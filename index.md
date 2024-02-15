@@ -40,9 +40,8 @@ I am interested in developing robots that can autonomously move through complex 
 
 ## Selected Course Grades
 
-<!-- 列表 -->
 | Course Name | Grade |
-|----|----|
+|-------|------|
 | Mathematical Analysis | 95 |
 | Linear Algebra | 96 |
 | Probability Theory and Mathematical Statistics | 92 |
