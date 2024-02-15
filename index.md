@@ -42,7 +42,7 @@ I am interested in developing robots that can autonomously move through complex 
 
 <!-- 列表 -->
 |     Course Name     |     Grade     |
-|     :----:     |     :----:     |
+|     ----     |     ----     |
 |     Mathematical Analysis     |     95     |
 |     Linear Algebra     |     96     |
 |     Probability Theory and Mathematical Statistics     |     92     |
@@ -56,15 +56,15 @@ I am interested in developing robots that can autonomously move through complex 
 
 ## Awards
 
-| No. | Award | Date |
-|-----|-------|------|
-| 1 | JAC NIO Scholarship | Oct 2022 |
-| 2 | Grand Prize of Zhou Peiyuan Mechanics Competition at Provincial Level | Jun 2023 |
-| 3 | 2nd Prize of RoboMaster 2023 The RoboMaster University Championship | Apr 2023 |
-| 4 | 2nd Prize of RoboMaster 2023 RoboMaster University League | Jun 2023 |
-| 5 | 1st Prize of 2023 Mitsubishi Electric Cup Electrical and Automation Contest Eastern Region | Jun 2023 |
-| 6 | 1st Prize of 2023 SLAMTEC SLAM Autonomous Driving Challenge  · Yangtze River Delta Research University Consortium | Aug 2023 |
-| 7 | 2nd Place of 2023 USTC Artificial Intelligence Innovation Contest | Sep 2023 |
+| Award | Date |
+|-------|------|
+| JAC NIO Scholarship | Oct 2022 |
+| Grand Prize of Zhou Peiyuan Mechanics Competition at Provincial Level | Jun 2023 |
+| 2nd Prize of RoboMaster 2023 The RoboMaster University Championship | Apr 2023 |
+| 2nd Prize of RoboMaster 2023 RoboMaster University League | Jun 2023 |
+| 1st Prize of 2023 Mitsubishi Electric Cup Electrical and Automation Contest Eastern Region | Jun 2023 |
+| 1st Prize of 2023 SLAMTEC SLAM Autonomous Driving Challenge  · Yangtze River Delta Research University Consortium | Aug 2023 |
+| 2nd Place of 2023 USTC Artificial Intelligence Innovation Contest | Sep 2023 |
 
 ---
 
