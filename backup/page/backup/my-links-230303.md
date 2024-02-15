@@ -21,5 +21,3 @@ title: Links
 - [杨希杰](https://yang-xijie.github.io/)
 
 
-
-{% include disqus.html %} 

@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://kevin-shao-ustc.github.io/syy.jpg" class="floatpic" width="727" height="540">
 
-Here is **YiYang Shao (Kevin, 邵宜阳)**.
+Here is **Yiyang Shao (Kevin, 邵宜阳)**.
 
 I am a junior undergraduate student and have a keen interest in robotics.
 
@@ -14,12 +14,16 @@ I am currently participating in the [Robomaster](https://www.robomaster.com/en-U
 
 Currently, I am developing navigation and nonlinear control algorithms based on NMPC and RL for a bipedal robot to enable robust autonomous navigation on uneven terrain.
 
+---
+
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking forward for summer research oppotunities.**
+**<font color='red'>[Highlight]</font> I am looking forward for summer research opportunities.**
 
 - **Sep 2021 - Now:** **University of Science and Technology of China**
+  
     School of Engineering Science· Department of Modern Mechanics
+
     **GPA**:3.79/4.3
 <br>
 
