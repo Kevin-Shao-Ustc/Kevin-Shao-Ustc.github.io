@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://kevin-shao-ustc.github.io/syy.jpg" class="floatpic" width="727" height="540">
+<img src="https://kevin-shao-ustc.github.io/syy.jpg" class="floatpic" width="727" height="805">
 
 Here is **Yiyang Shao (Kevin, 邵宜阳)**.
 
