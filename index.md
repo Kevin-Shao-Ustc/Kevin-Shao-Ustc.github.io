@@ -70,7 +70,7 @@ I am interested in developing robots that can autonomously move through complex 
 ## Skills, Languages, and Hobbies
 
 - Programming : Python, C++, MATLAB, Mathematica, LaTeX, etc 
-- Tools : ROS/ROS2, SSH, Git, etc |
+- Tools : ROS/ROS2, SSH, Git, etc 
 - Languages : English: Toefl 95 ; French: Basic understanding 
-- Hobbies : Soccer , Cycling , Lego |
+- Hobbies : Soccer , Cycling , Lego 
 
