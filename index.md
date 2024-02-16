@@ -24,7 +24,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
   
     School of Engineering Science· Department of Modern Mechanics
 
-    **GPA**:3.79/4.3
+    **GPA**:3.79/4.3(4/61)
 
 ---
 
@@ -37,6 +37,12 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 I am interested in developing robots that can autonomously move through complex environments with the flexibility and stability of natural animals(including human being:)
 
 ---
+
+## Research Experience
+
+- State Estimation and Control of a Bipedal Robot
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UCVrNMYU8elyjVEL3f50aEGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Selected Course Grades
 
