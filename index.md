@@ -24,7 +24,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
   
     School of Engineering Science· Department of Modern Mechanics
 
-    **GPA**:3.79/4.3(4/61)
+    **GPA**:3.79/4.3(4/143)
 
 ---
 
