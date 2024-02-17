@@ -38,11 +38,11 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 
 ## Research Interests
 
-- Control & State Estimation
-- Reinforcement Learning
+- Optimal Control & State Estimation
+- Reinforcement Learning & LLM
 - Planning for Mobile Robots and Robotic Arms
 
-I am interested in developing robots that can autonomously move through complex environments with the flexibility and stability of natural animals(including human being:)
+I am interested in developing robots that can autonomously move through complex environments with the flexibility and stability of natural animals, and carry out tasks with high precision and efficiency.
 
 ---
 
