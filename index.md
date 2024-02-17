@@ -31,11 +31,12 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 ## Research Experience
 
 - State Estimation and Control of a Bipedal Robot
-  
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4KdO7uRTI6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  I proposed an novel slip detection and state estimation strategy, which significantly improved the robot's robustness. The results will be published in a paper.
 
 - Autonomous Navigation
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mgK62YdBWW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  Based on open-source algorithms, I developed a navigation system for a mobile robot, which has the preliminary ability to navigate autonomously in uneven environments. Still under development.
 
 ---
 
