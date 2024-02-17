@@ -18,7 +18,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking forward for summer research opportunities. If you have any leads, please contact me at** *syy2003[at]mail[at]ustc[dot]edu[dot]cn* 
+**<font color='red'>[Highlight]</font> I am looking forward for summer research opportunities. If you have any leads, please contact me at** *syy2003[at]mail[dot]ustc[dot]edu[dot]cn* 
 
 - **Sep 2021 - Now:** **University of Science and Technology of China**
   
