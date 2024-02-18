@@ -4,7 +4,8 @@ layout: page
 
 # Yiyang Shao
 
-  I am a junior undergraduate student in [USTC](https://en.ustc.edu.cn/) and have a keen interest in robotics.
+
+I am a junior undergraduate student in [USTC](https://en.ustc.edu.cn/) and have a keen interest in robotics.
 
 I am currently participating in the [Robomaster](https://www.robomaster.com/en-US) competition, where I am responsible for developing navigation and control algorithms for different robots, which has given me a strong understanding of control theory, path planning algorithms, and mastery of techniques like SLAM and ROS.
 
