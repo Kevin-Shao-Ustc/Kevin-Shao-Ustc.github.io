@@ -2,11 +2,9 @@
 layout: page
 ---
 
-# About Me
+# Yiyang Shao
 
 <!-- <img src="https://kevin-shao-ustc.github.io/syy.jpg" class="floatpic" width="727" height="805"> -->
-
-Here is **Yiyang Shao (Kevin, 邵宜阳)**.
 
 I am a junior undergraduate student and have a keen interest in robotics.
 
