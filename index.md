@@ -37,7 +37,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 
 - **Neurodynamic Simulation of Demyelinating Neurological Damage Caused by SARS-COV-2**
   
-  I coolaboarted with a team member to investigat how SARS-COV-2 damages human brain function by neurodynamic simulation.
+  I coolaboarted with a team member to investigate how SARS-COV-2 damages human brain function by neurodynamic simulation.
   Click to download the [paper](https://kevin-shao-ustc.github.io/EleMag.pdf)
 
 - **Replication: 3D Photography on Your Desk**
