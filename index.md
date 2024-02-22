@@ -30,7 +30,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
   
   We trained a game AI for the MOBA game _King Glory_ based on PPO and won first place
 
-  <img src="https://kevin-shao-ustc.com/GameAI.png" class="floatpic" width="360" height="480">
+  <img src="https://kevin-shao-ustc.com/GameAI.png" class="floatpic" width="437" height="246">
 
 - **Neurodynamic Simulation of Demyelinating Neurological Damage Caused by SARS-COV-2**
   We investigated how SARS-COV-2 damages human brain function by neurodynamic simulation.
