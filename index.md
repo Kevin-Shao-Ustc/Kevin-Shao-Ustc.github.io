@@ -6,23 +6,11 @@ layout: page
 
 &ensp;&ensp;&ensp;&ensp;I am a junior undergraduate student in [USTC](https://en.ustc.edu.cn/) and am keenly interested in robotics.
 
-I am currently participating in the [Robomaster](https://www.robomaster.com/en-US) competition, where I am responsible for developing navigation and control algorithms for different robots, which has given me a strong understanding of control theory, path planning algorithms, and mastery of techniques like SLAM and ROS.
+I am currently participating in the [Robomaster](https://www.robomaster.com/en-US) competition, where I am responsible for developing navigation and control algorithms for different robots, which has given me a strong understanding of control theory, SLAM, and path-planning algorithms.
 
 I am a self-motivated and independent learner. My previous experiences cultivated my strong ability to retrieve information and develop new skills independently. I also have a good foundation and intuition in math and physics.
 
 Currently, I am developing navigation and nonlinear control algorithms based on NMPC and RL for a bipedal robot to enable terrain-aware navigation in an uneven environment, as instructed by [Prof. Shiwu Zhang](http://staff.ustc.edu.cn/~swzhang/).
-
----
-
-## Academic Background
-
-**<font color='red'>[Highlight]</font> I am looking forward for summer research opportunities. If you have any leads, please contact me at** <syy2003@mail.ustc.edu.cn>
-
-- **Sep 2021 - Now:** **University of Science and Technology of China**
-  
-    School of Engineering Science· Department of Modern Mechanics
-
-    **GPA**:3.79/4.3(4/143)
 
 ---
 
@@ -48,6 +36,25 @@ I am interested in developing robots that can autonomously move through complex 
 
 ---
 
+## Skills and Languages
+
+- Programming and Tools : Python, C++/C, Matlab, Mathematica , ROS/ROS2, etc
+- Robotics : Optimal Control, DRL, Path Planning, SLAM, etc
+- Languages : English: Toefl 95 ; French: Basic understanding 
+---
+
+## Academic Background
+
+**<font color='red'>[Highlight]</font> I am looking forward for summer research opportunities. If you have any leads, please contact me at** <syy2003@mail.ustc.edu.cn>
+
+- **Sep 2021 - Now:** **University of Science and Technology of China**
+  
+    School of Engineering Science· Department of Modern Mechanics
+
+    **GPA**:3.79/4.3(4/143)
+
+---
+
 ## Selected Course Grades
 
 | Course Name | Grade |
@@ -59,7 +66,8 @@ I am interested in developing robots that can autonomously move through complex 
 | Thermotics | 100 |
 | Theoretical Mechanics | 99 |
 | Statistical Thermodynamics | 97 |
-
+| Computer Vision | 91 |
+| Game AI Design and Practice | 1st Place |
 
 ---
 
@@ -75,12 +83,4 @@ I am interested in developing robots that can autonomously move through complex 
 | 1st Prize of 2023 SLAMTEC SLAM Autonomous Driving Challenge  · Yangtze River Delta Research University Consortium | Aug 2023 |
 | 2nd Place of 2023 USTC Artificial Intelligence Innovation Contest | Sep 2023 |
 
----
-
-## Skills, Languages, and Hobbies
-
-- Programming : Python, C++, MATLAB, Mathematica, LaTeX, etc 
-- Tools : ROS/ROS2, SSH, Git, etc 
-- Languages : English: Toefl 95 ; French: Basic understanding 
-- Hobbies : Soccer , Cycling , Lego 
 
