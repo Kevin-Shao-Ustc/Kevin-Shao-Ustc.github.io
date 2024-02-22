@@ -17,13 +17,16 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 ## Research Experience
 
 - **State Estimation and Control of a Bipedal Robot**
+  
   I proposed a novel slip detection and state estimation strategy, which significantly improved the robot's robustness. The results will be published in a paper.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4KdO7uRTI6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - **SLAM and navigation of a sentry robot**
+  
    I developed a navigation system for a mobile robot, which has the preliminary ability to navigate autonomously in uneven environments. Still under development.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mgK62YdBWW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **3D Pointcloud-Based Ground Robot 6-DoF Path Planning and Motion Control**  
+  
   I led a team to develop a bipedal robot with lidar that can autonomously navigate through uneven terrain. Still under development.
 
 - **MOBA game AI based on Deep Reinforcement learning**
@@ -32,18 +35,19 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-0lcAoTVlJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 - **Neurodynamic Simulation of Demyelinating Neurological Damage Caused by SARS-COV-2**
+  
   I coolaboarted with a team member to investigat how SARS-COV-2 damages human brain function by neurodynamic simulation.
   Click to download the [paper](https://kevin-shao-ustc.github.io/EleMag.pdf)
 
 - **Replication: 3D Photography on Your Desk**
+  
   I replicated the classical computer vision paper _3D Photography on Your Desk_
 
   <img src="https://kevin-shao-ustc.github.io/3Dphoto.png" width="200" height="300">
 
 - **Reinforcement Learning Algorithm for Imitating Cat Righting Reflex**
+  
   I led a team to develop control algorithms imitating the cat's righting reflex based on the TD3 algorithm.
 
   <img src="https://kevin-shao-ustc.github.io/01.gif"  width="200" height="113">
