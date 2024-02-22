@@ -18,7 +18,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 
 - **State Estimation and Control of a Bipedal Robot**
   
-  I proposed a novel slip detection and state estimation strategy, which significantly improved the robot's robustness. The results will be published in a paper.
+  I proposed a novel slip detection and state estimation strategy, significantly improving the robot's robustness. The results will be published in a paper.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4KdO7uRTI6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - **SLAM and navigation of a sentry robot**
   
@@ -37,7 +37,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 
 - **Neurodynamic Simulation of Demyelinating Neurological Damage Caused by SARS-COV-2**
   
-  I coolaboarted with a team member to investigate how SARS-COV-2 damages human brain function by neurodynamic simulation.
+  I collaboarted with a team member to investigate how SARS-COV-2 damages human brain function by neurodynamic simulation.
   Click to download the [paper](https://kevin-shao-ustc.github.io/EleMag.pdf)
 
 - **Replication: 3D Photography on Your Desk**
