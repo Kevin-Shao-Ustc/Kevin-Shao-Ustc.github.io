@@ -18,12 +18,24 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 
 - State Estimation and Control of a Bipedal Robot
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4KdO7uRTI6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  I proposed an novel slip detection and state estimation strategy, which significantly improved the robot's robustness. The results will be published in a paper.
+  I proposed a novel slip detection and state estimation strategy, which significantly improved the robot's robustness. The results will be published in a paper.
 
-- Autonomous Navigation
+- SLAM and navigation of a sentry robot
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mgK62YdBWW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   Based on open-source algorithms, I developed a navigation system for a mobile robot, which has the preliminary ability to navigate autonomously in uneven environments. Still under development.
   
+- MOBA game AI based on Deep Reinforcement learning
+  
+  We trained a game AI for the MOBA game _King Glory_ based on PPO and won first place
+
+- Neurodynamic Simulation of Demyelinating Neurological Damage Caused by SARS-COV-2
+  We investigated how SARS-COV-2 damages human brain function by neurodynamic simulation.
+
+- Replication: 3D Photography on Your Desk
+  I replicated the classical computer vision paper _3D Photography on Your Desk_
+
+- Reinforcement Learning Algorithm for Imitating Cat Righting Reflex
+  I led a team to develop control algorithms imitating the cat's righting reflex based on the TD3 algorithm.
 ---
 
 ## Research Interests
