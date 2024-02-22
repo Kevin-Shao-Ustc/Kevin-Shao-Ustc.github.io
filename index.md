@@ -23,7 +23,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 - Autonomous Navigation
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mgK62YdBWW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   Based on open-source algorithms, I developed a navigation system for a mobile robot, which has the preliminary ability to navigate autonomously in uneven environments. Still under development.
-
+  
 ---
 
 ## Research Interests
@@ -41,6 +41,7 @@ I am interested in developing robots that can autonomously move through complex 
 - Programming and Tools : Python, C++/C, Matlab, Mathematica , ROS/ROS2, etc
 - Robotics : Optimal Control, DRL, Path Planning, SLAM, etc
 - Languages : English: Toefl 95 ; French: Basic understanding 
+  
 ---
 
 ## Academic Background
