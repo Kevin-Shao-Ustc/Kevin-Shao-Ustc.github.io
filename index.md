@@ -24,18 +24,18 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mgK62YdBWW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **3D Pointcloud-Based Ground Robot 6-DoF Path Planning and Motion Control**  
-  We aim to enable bipedal robots to autonomously navigate through uneven terrain. Still under development.
+  I led a team to develop a bipedal robot with lidar that can autonomously navigate through uneven terrain. Still under development.
 
 - **MOBA game AI based on Deep Reinforcement learning**
   
-  We trained a game AI for the MOBA game _King Glory_ based on PPO and won first place
+  I led a team and trained a game AI for the MOBA game _Honor of Kings_ based on PPO and won first place in the course _Game AI Design and Practice_.
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-0lcAoTVlJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 - **Neurodynamic Simulation of Demyelinating Neurological Damage Caused by SARS-COV-2**
-  We investigated how SARS-COV-2 damages human brain function by neurodynamic simulation.
+  I coolaboarted with a team member to investigat how SARS-COV-2 damages human brain function by neurodynamic simulation.
   Click to download the [paper](https://kevin-shao-ustc.github.io/EleMag.pdf)
 
 - **Replication: 3D Photography on Your Desk**
