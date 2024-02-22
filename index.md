@@ -38,6 +38,8 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 - **Replication: 3D Photography on Your Desk**
   I replicated the classical computer vision paper _3D Photography on Your Desk_
 
+  <img src="https://kevin-shao-ustc.com/images/3Dphoto.png" class="floatpic" width="200" height="300">
+
 - **Reinforcement Learning Algorithm for Imitating Cat Righting Reflex**
   I led a team to develop control algorithms imitating the cat's righting reflex based on the TD3 algorithm.
 ---
