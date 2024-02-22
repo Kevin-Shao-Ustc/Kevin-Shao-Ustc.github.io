@@ -30,7 +30,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
   
   We trained a game AI for the MOBA game _King Glory_ based on PPO and won first place
 
-  <img src="https://kevin-shao-ustc.com/images/GameAI.png" class="floatpic" width="360" height="480">
+  <img src="https://kevin-shao-ustc.com/GameAI.png" class="floatpic" width="360" height="480">
 
 - **Neurodynamic Simulation of Demyelinating Neurological Damage Caused by SARS-COV-2**
   We investigated how SARS-COV-2 damages human brain function by neurodynamic simulation.
@@ -38,7 +38,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 - **Replication: 3D Photography on Your Desk**
   I replicated the classical computer vision paper _3D Photography on Your Desk_
 
-  <img src="https://kevin-shao-ustc.com/images/3Dphoto.png" class="floatpic" width="200" height="300">
+  <img src="https://kevin-shao-ustc.com/3Dphoto.png" class="floatpic" width="200" height="300">
 
 - **Reinforcement Learning Algorithm for Imitating Cat Righting Reflex**
   I led a team to develop control algorithms imitating the cat's righting reflex based on the TD3 algorithm.
