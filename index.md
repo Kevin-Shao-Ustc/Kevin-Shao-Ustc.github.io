@@ -82,7 +82,7 @@ I am interested in developing robots that can autonomously move through complex 
 
     **GPA**:3.79/4.3(4/143)
 
----
+<!-- ---
 
 ## Selected Course Grades
 
@@ -110,6 +110,6 @@ I am interested in developing robots that can autonomously move through complex 
 | 2nd Prize of RoboMaster 2023 RoboMaster University League | Jun 2023 |
 | 1st Prize of 2023 Mitsubishi Electric Cup Electrical and Automation Contest Eastern Region | Jun 2023 |
 | 1st Prize of 2023 SLAMTEC SLAM Autonomous Driving Challenge  · Yangtze River Delta Research University Consortium | Aug 2023 |
-| 2nd Place of 2023 USTC Artificial Intelligence Innovation Contest | Sep 2023 |
+| 2nd Place of 2023 USTC Artificial Intelligence Innovation Contest | Sep 2023 | -->
 
 
