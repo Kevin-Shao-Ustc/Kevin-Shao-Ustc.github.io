@@ -12,6 +12,8 @@ I am a self-motivated and independent learner. My previous experiences cultivate
 
 Currently, I am developing navigation and nonlinear control algorithms based on NMPC and RL for a bipedal robot to enable terrain-aware navigation in an uneven environment, as instructed by [Prof. Shiwu Zhang](http://staff.ustc.edu.cn/~swzhang/).
 
+For more information, please refer to my latest [CV](https://kevin-shao-ustc.github.io/file/ENG_CV.pdf).
+
 ---
 
 ## Education
