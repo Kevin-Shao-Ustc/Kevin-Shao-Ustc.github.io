@@ -45,7 +45,7 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
   
   Developed control algorithms imitating the cat's righting reflex based on the TD3 algorithm.
 
-  <img src="https://kevin-shao-ustc.github.io/01.gif" class="floatpic" width="1066" height="600">
+  <img src="https://kevin-shao-ustc.github.io/01.gif" width="1066" height="600">
 
 ---
 
