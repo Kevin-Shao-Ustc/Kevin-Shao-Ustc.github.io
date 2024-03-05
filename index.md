@@ -4,7 +4,7 @@ layout: page
 
 # Yiyang Shao
 
-&ensp;&ensp;I am a junior undergraduate student in [USTC](https://en.ustc.edu.cn/) and am keenly interested in robotics.
+&ensp;&ensp;&ensp;I am a junior undergraduate student in [USTC](https://en.ustc.edu.cn/) and am keenly interested in robotics.
 
 I am currently participating in the [Robomaster](https://www.robomaster.com/en-US) competition, where I am responsible for developing navigation and control algorithms for different robots, which has given me a strong understanding of control theory, SLAM, and path-planning algorithms.
 
