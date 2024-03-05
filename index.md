@@ -8,8 +8,6 @@ layout: page
 
 I am currently participating in the [Robomaster](https://www.robomaster.com/en-US) competition, where I am responsible for developing navigation and control algorithms for different robots, which has given me a strong understanding of control theory, SLAM, and path-planning algorithms.
 
-I am a self-motivated and independent learner. My previous experiences cultivated my strong ability to retrieve information and develop new skills independently. I also have a good foundation and intuition in math and physics.
-
 Currently, I am developing navigation and nonlinear control algorithms based on NMPC and RL for a bipedal robot to enable terrain-aware navigation in an uneven environment, as instructed by [Prof. Shiwu Zhang](http://staff.ustc.edu.cn/~swzhang/).
 
 For more information, please refer to my latest [CV](https://kevin-shao-ustc.github.io/file/ENG_CV.pdf).
