@@ -34,7 +34,7 @@ For more information, please refer to my latest [CV](https://kevin-shao-ustc.git
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DIakTY5WKMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - **SLAM and navigation of a sentry robot**
   
-   Developed a navigation system for a mobile robot, enhancing localization frequency and accuracy by integrating lidar, IMU, and encoder data with a Karman filter, and enabling the robot to navigate autonomously in uneven environments.
+   Developed a navigation system for a mobile robot, enhancing localization frequency and accuracy by integrating lidar, IMU, and encoder data with a Karman filter, and enabling the robot to navigate autonomously in uneven environments. More details can be founed [here](https://kevin-shao-ustc.github.io/Sentry.pdf)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DtH-J36skYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **3D Pointcloud-Based Ground Robot 6-DoF Path Planning and Motion Control**  
