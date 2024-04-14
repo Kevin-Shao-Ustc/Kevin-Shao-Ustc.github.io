@@ -6,24 +6,25 @@ layout: page
 
 &ensp;&ensp;&ensp;I am a junior undergraduate student in [USTC](https://en.ustc.edu.cn/) and am keenly interested in robotics.
 
-I am currently participating in the [Robomaster](https://www.robomaster.com/en-US) competition, where I am responsible for developing navigation and control algorithms for different robots, which has given me a strong understanding of control theory, SLAM, and path-planning algorithms.
+I am currently participating in the [Robomaster](https://www.robomaster.com/en-US) competition, where I am responsible for developing navigation and control algorithms for different robots.
 
 Currently, I am developing navigation and nonlinear control algorithms based on NMPC and RL for a bipedal robot to enable terrain-aware navigation in an uneven environment, as instructed by [Prof. Shiwu Zhang](http://staff.ustc.edu.cn/~swzhang/).
 
 For more information, please refer to my latest [CV](https://kevin-shao-ustc.github.io/file/ENG_CV.pdf).
 
----
-
-## Education
 
 **<font color='red'>[Highlight]</font> I am looking forward for summer research opportunities. If you have any leads, please contact me at** <kevinshaoyy2003@gmail.com>
 
-- **Sep 2021 - Now:** **University of Science and Technology of China**
-  
-    _B.S. in Modern Mechanics_, 3.79/4.3(4/143)
-
-
 ---
+
+## Research Interests
+
+- Optimal Control & State Estimation
+- Reinforcement Learning 
+- Planning for Mobile Robots and Robotic Arms
+  
+---
+
 
 ## Research Experience
 
@@ -70,10 +71,15 @@ For more information, please refer to my latest [CV](https://kevin-shao-ustc.git
 
 ---
 
-## Research Interests
 
-- Optimal Control & State Estimation
-- Reinforcement Learning & LLM
-- Planning for Mobile Robots and Robotic Arms
+## Education
+
+- **Sep 2021 - Now:** **University of Science and Technology of China**
+  
+    _B.S. in Modern Mechanics_, 3.79/4.3(4/143)
+
+
+
+
  
 
