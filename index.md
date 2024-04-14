@@ -30,7 +30,7 @@ For more information, please refer to my latest [CV](https://kevin-shao-ustc.git
 - **State Estimation and Control of a Bipedal Robot**
   
   Proposed a novel slip detection and state estimation strategy based on physical first principles, significantly improving the robot's robustness. A manuscript detailing this work is currently in development.
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4KdO7uRTI6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DIakTY5WKMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - **SLAM and navigation of a sentry robot**
   
    Developed a navigation system for a mobile robot, enhancing localization frequency and accuracy by integrating lidar, IMU, and encoder data with a Karman filter, and enabling the robot to navigate autonomously in uneven environments.
