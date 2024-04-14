@@ -30,12 +30,12 @@ For more information, please refer to my latest [CV](https://kevin-shao-ustc.git
 
 - **State Estimation and Control of a Bipedal Robot**
   
-  Proposed a novel slip detection and state estimation strategy based on physical first principles, significantly improving the robot's robustness. A manuscript detailing this work is currently in development.
+  Proposed a novel slip detection and state estimation strategy based on physical first principles, significantly improving the robot's robustness. A manuscript detailing this work is currently in development. More details can be founed [here](https://kevin-shao-ustc.github.io/Bipedal.pdf)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DIakTY5WKMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - **SLAM and navigation of a sentry robot**
   
    Developed a navigation system for a mobile robot, enhancing localization frequency and accuracy by integrating lidar, IMU, and encoder data with a Karman filter, and enabling the robot to navigate autonomously in uneven environments.
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/mgK62YdBWW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DtH-J36skYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **3D Pointcloud-Based Ground Robot 6-DoF Path Planning and Motion Control**  
   
