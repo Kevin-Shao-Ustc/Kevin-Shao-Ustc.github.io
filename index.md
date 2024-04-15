@@ -30,11 +30,11 @@ For more information, please refer to my latest [CV](https://kevin-shao-ustc.git
 
 - **State Estimation and Control of a Bipedal Robot**
   
-  Proposed a novel slip detection and state estimation strategy based on physical first principles, significantly improving the robot's robustness. A manuscript detailing this work is currently in development. More details can be founed [here](https://kevin-shao-ustc.github.io/Bipedal.pdf)
+  Proposed a novel slip detection and state estimation strategy based on physical first principles, significantly improving the robot's robustness. A manuscript detailing this work is currently in development. More details can be founed [HERE](https://kevin-shao-ustc.github.io/Bipedal.pdf)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DIakTY5WKMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - **SLAM and navigation of a sentry robot**
   
-   Developed a navigation system for a mobile robot, enhancing localization frequency and accuracy by integrating lidar, IMU, and encoder data with a Karman filter, and enabling the robot to navigate autonomously in uneven environments. More details can be founed [here](https://kevin-shao-ustc.github.io/Sentry.pdf)
+   Developed a navigation system for a mobile robot, enhancing localization frequency and accuracy by integrating lidar, IMU, and encoder data with a Karman filter, and enabling the robot to navigate autonomously in uneven environments. More details can be founed [HERE](https://kevin-shao-ustc.github.io/Sentry.pdf)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DtH-J36skYA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - **3D Pointcloud-Based Ground Robot 6-DoF Path Planning and Motion Control**  
@@ -61,7 +61,7 @@ For more information, please refer to my latest [CV](https://kevin-shao-ustc.git
 - **Neurodynamic Simulation of Demyelinating Neurological Damage Caused by SARS-COV-2**
   
   Investigate how SARS-COV-2 damages human brain function by neurodynamic simulation.
-  Click to download the [paper](https://kevin-shao-ustc.github.io/EleMag.pdf)
+  Click to download the [PAPER](https://kevin-shao-ustc.github.io/EleMag.pdf)
 
 - **Replication: 3D Photography on Your Desk**
   
