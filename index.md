@@ -4,7 +4,7 @@ layout: page
 
 # Yiyang Shao
 
-&ensp;&ensp;&ensp;I am a junior undergraduate student in [USTC](https://en.ustc.edu.cn/) and am keenly interested in robotics.
+&ensp;&ensp;&ensp;I am a junior undergraduate student in [USTC](https://en.ustc.edu.cn/) and am keenly interested in robotics. I am currently visiting University of California, Berkeley.
 
 I am currently participating in the [Robomaster](https://www.robomaster.com/en-US) competition, where I am responsible for developing navigation and control algorithms for different robots.
 
@@ -12,8 +12,6 @@ Currently, I am developing navigation and nonlinear control algorithms based on 
 
 For more information, please refer to my latest [CV](https://kevin-shao-ustc.github.io/file/ENG_CV.pdf).
 
-
-**<font color='red'>[Highlight]</font> I am looking forward for summer research opportunities. If you have any leads, please contact me at** <kevinshaoyy2003@gmail.com>
 
 ---
 
